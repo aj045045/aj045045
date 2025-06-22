@@ -1,7 +1,3 @@
-![👋 Hi, my name is Ansh Yadav](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
-
-![Profile views](https://komarev.com/ghpvc/?username=aj045045&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -12,8 +8,28 @@
   </ul>
 </div>
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://github.com/aj045045" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ansh-yadav-0ab92424b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="aj045045@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://twitter.com/aj045045" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 12px"></a></p>
+![Profile views](https://komarev.com/ghpvc/?username=aj045045&label=Profile%20views&color=0e75b6&style=flat)
+
+![👋 Hi, my name is Ansh Yadav](./profile.jpg)
+
+**<h3 align="center">Connect with me:</h3>**
+<p align="center">
+  <a href="https://github.com/aj045045" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28">
+  </a>
+  <a href="https://www.linkedin.com/in/ansh-yadav-0ab92424b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28">
+  </a>
+  <a href="mailto:aj045045@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28">
+  </a>
+  <a href="https://twitter.com/aj045045" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28">
+  </a>
+  <a href="https://linktr.ee/Yadav_Ansh?utm_source=linktree_admin_share" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" height="28">
+  </a>
+</p>
 
  **<h3 align="left">👋 Hi there! I’m a passionate and driven M.Sc. Computer Science student at Gujarat University with a strong focus on Artificial Intelligence and its real-world impact. I'm deeply interested in exploring how AI can transform industries, enhance user experiences, and shape the future of technology and business. I love building, learning, and contributing to projects that push the boundaries of innovation.</h3>**
 
